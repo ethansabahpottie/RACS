@@ -1,5 +1,5 @@
 # RACS
-Repository of code for Raman Activated Cell Sorting Final Year Project
+Repository of code for Automation of Raman Activated Cell Sorting Final Year Project
 
 This Document serves as a user manual for the scripts in the repository
 
