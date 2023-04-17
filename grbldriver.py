@@ -8,11 +8,6 @@ class GrblDriver:
     Makes controlling each of the four available motors easy in terms of actual steps.
     Converting steps to mm or deg can be done on the user-side application.
 
-    NOTE: GRBL config.h had to be modified in order to make GRBL v1.1 compatible
-    with the arduino shield (https://blog.protoneer.co.nz/arduino-cnc-shield/).
-    Pin D12 is by default used for spindle control.  Comment the line (line339)
-    to disable spindle control so that z-limit switch is on the right pin.
-
     
     """
     
